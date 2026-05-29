@@ -26,27 +26,27 @@ Hao Zheng, Jing Dai (2025). Utilizing digital transformation for agility develop
 
 Hao Zheng, Jing Dai, and Boying Li (2025). Exploring the relationship between digital integration and agility: the role of organizational inertia and market information transparency, International Journal of Operations & Production Management (ABS 4).
 
-Hao Zheng (2025) Building Agility through Digital Transformation: A Strategic Perspective. Book Chapter, Intechopen.
+Hao Zheng (2025). Building Agility through Digital Transformation: A Strategic Perspective. Book Chapter, Intechopen.
 
-Hao Zheng, Menghan Li (2026) What Drives Purchase Intention? A Configurational Perspective Using Fuzzy-Set Qualitative Comparative Analysis and Machine Learning. Proceedings of the 4th International Conference on Environmental Sustainability Through Waste and Recycling. Boston, Massachusetts, U.S. 
+Hao Zheng, Menghan Li (2026). What Drives Purchase Intention? A Configurational Perspective Using Fuzzy-Set Qualitative Comparative Analysis and Machine Learning. Proceedings of the 4th International Conference on Environmental Sustainability Through Waste and Recycling. Boston, Massachusetts, U.S. 
 
-Hao Zheng, Menghan Li (2026) How Is Brand Attitude Shaped? A Configurational Perspective Using Fuzzy-Set Qualitative Comparative Analysis and Machine Learning. Proceedings of the 4th International Conference on Environmental Sustainability Through Waste and Recycling. Boston, Massachusetts, U.S.
+Hao Zheng, Menghan Li (2026). How Is Brand Attitude Shaped? A Configurational Perspective Using Fuzzy-Set Qualitative Comparative Analysis and Machine Learning. Proceedings of the 4th International Conference on Environmental Sustainability Through Waste and Recycling. Boston, Massachusetts, U.S.
 
-Hao Zheng, Menghan Li (2026) Sustainability in Kulmbacher Brauerei: A Structure-Conduct-Performance Perspective. Proceedings of the 4th International Conference on Environmental Sustainability Through Waste and Recycling. Boston, Massachusetts, U.S.
+Hao Zheng, Menghan Li (2026). Sustainability in Kulmbacher Brauerei: A Structure-Conduct-Performance Perspective. Proceedings of the 4th International Conference on Environmental Sustainability Through Waste and Recycling. Boston, Massachusetts, U.S.
 
-Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, Wenjun Zeng (2026) Configuring Supply Chain Resilience: An Integrated Fuzzy-set Qualitative Comparative Analysis and Machine Learning Approach, 2026 INFORMS Conference on Service Science. Hangzhou, China. (Accepted)
+Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, Wenjun Zeng (2026). Configuring Supply Chain Resilience: An Integrated Fuzzy-set Qualitative Comparative Analysis and Machine Learning Approach, 2026 INFORMS Conference on Service Science. Hangzhou, China. (Accepted)
 
-Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, Wenjun Zeng (2026) Beyond visibility and agility: A Configurational Approach to Supply Chain Resilience, 2026 INFORMS Conference on Service Science. Hangzhou, China. (Accepted)
+Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, Wenjun Zeng (2026). Beyond visibility and agility: A Configurational Approach to Supply Chain Resilience, 2026 INFORMS Conference on Service Science. Hangzhou, China. (Accepted)
 
-Hao Zheng, Menghan Li (2026) From Theory to Model: A Holistic Perspective on the Antecedents of Value Co-Destruction, the 86th Annual Meeting of the Academy of Management, Philadelphia, USA. (Accepted)
+Hao Zheng, Menghan Li (2026). From Theory to Model: A Holistic Perspective on the Antecedents of Value Co-Destruction, the 86th Annual Meeting of the Academy of Management, Philadelphia, USA. (Accepted)
 
-Hao Zheng, Menghan Li (2026) From Transaction History to Customer Risk Screening: Explainable AI for Churn Risk Identification, 2026 Asia-Pacific Marketing Academy Annual Conference, Macau, China. (Accepted)
+Hao Zheng, Menghan Li (2026). From Transaction History to Customer Risk Screening: Explainable AI for Churn Risk Identification, 2026 Asia-Pacific Marketing Academy Annual Conference, Macau, China. (Accepted)
 
-Hao Zheng, Menghan Li (2026) Time-Segmented Association Rule Mining of Consumer Purchase Patterns, 2026 Asia-Pacific Marketing Academy Annual Conference, Macau, China. (Accepted)
+Hao Zheng, Menghan Li (2026). Time-Segmented Association Rule Mining of Consumer Purchase Patterns, 2026 Asia-Pacific Marketing Academy Annual Conference, Macau, China. (Accepted)
 
-Hao Zheng, Menghan Li (2027) Configuring Purchase Intention through Perceived Product Sustainability, Perceived Product Trustworthiness, Scenario Realism, and Brand Attitude: An Integrated Fuzzy-Set Qualitative Comparative Analysis and Machine Learning Approach, 5th InternationalConference on Environmental Sustainability Through Waste & Recycling, Houston, TX, U.S. (Accepted) 
+Hao Zheng, Menghan Li (2027.) Configuring Purchase Intention through Perceived Product Sustainability, Perceived Product Trustworthiness, Scenario Realism, and Brand Attitude: An Integrated Fuzzy-Set Qualitative Comparative Analysis and Machine Learning Approach, 5th InternationalConference on Environmental Sustainability Through Waste & Recycling, Houston, TX, U.S. (Accepted) 
 
-Hao Zheng Menghan Li (2027) Exploring the impact of US Sanctions on Green Innovation: A Real Options Perspective, 5th International Conference on Environmental Sustainability Through Waste & Recycling, Houston, TX, U.S. (Accepted)
+Hao Zheng Menghan Li (2027). Exploring the impact of US Sanctions on Green Innovation: A Real Options Perspective, 5th International Conference on Environmental Sustainability Through Waste & Recycling, Houston, TX, U.S. (Accepted)
 
 
 
