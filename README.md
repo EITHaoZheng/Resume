@@ -34,9 +34,9 @@ Hao Zheng and Menghan Li (2026). How Is Brand Attitude Shaped? A Configurational
 
 Hao Zheng and Menghan Li (2026). Sustainability in Kulmbacher Brauerei: A Structure-Conduct-Performance Perspective. Proceedings of the 4th International Conference on Environmental Sustainability Through Waste and Recycling. Boston, Massachusetts, U.S.
 
-Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, and Wenjun Zeng (2026). Configuring Supply Chain Resilience: An Integrated Fuzzy-set Qualitative Comparative Analysis and Machine Learning Approach, INFORMS Service Science, 2026 Internatinal Conference on Service Science. Hangzhou, China. (Accepted)
+Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, and Wenjun Zeng (2026). Configuring Supply Chain Resilience: An Integrated Fuzzy-set Qualitative Comparative Analysis and Machine Learning Approach, 2026 Internatinal Conference on Service Science， INFORMS Service Science, Hangzhou, China. (Accepted)
 
-Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, and Wenjun Zeng (2026). Beyond visibility and agility: A Configurational Approach to Supply Chain Resilience, INFORMS Service Science, 2026 Internatinal Conference on Service Science. Hangzhou, China. (Accepted)
+Hao Zheng, Qiuyu Chen, Baao Xie, Xin Jin, and Wenjun Zeng (2026). Beyond visibility and agility: A Configurational Approach to Supply Chain Resilience, 2026 Internatinal Conference on Service Science， INFORMS Service Science, Hangzhou, China. (Accepted)
 
 Hao Zheng and Menghan Li (2026). From Theory to Model: A Holistic Perspective on the Antecedents of Value Co-Destruction, the 86th Annual Meeting of the Academy of Management, Philadelphia, USA. (Accepted)
 
